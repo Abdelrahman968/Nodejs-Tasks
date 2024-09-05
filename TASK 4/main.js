@@ -1,6 +1,6 @@
 // Name : Abdelrahman Ayman
 // Task : 4
-// Try To Fetch Images From URL "https://jsonplaceholder.typicode.com/photos"
+// Try To Fetch Images,Body,IndexNumber From URL "https://jsonplaceholder.typicode.com/photos"
 
 /* ======================================================= */
 
